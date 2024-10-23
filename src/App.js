@@ -241,7 +241,7 @@ const App = () => {
               promptText2={
                 <span>
                   Which of these individuals would consider <b>you</b> a
-                  safe person who would respond to them if they reached out when they are having a bad day or a negative
+                  safe person who would respond to them if they reached out when they are having a bad day or had a negative
                   experience?
                 </span>
               }
